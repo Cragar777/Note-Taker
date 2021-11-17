@@ -29,4 +29,4 @@ THEN I am presented with empty fields to enter a new note title and the note's t
 ```
 **Link to Deployed App on Heroku:**
 
-.https://infinite-shore-57638.herokuapp.com/
+https://infinite-shore-57638.herokuapp.com/
