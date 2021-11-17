@@ -33,6 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note's t
 
 ![NoteTaker2png](https://user-images.githubusercontent.com/85413293/142131968-869f7476-9eba-489f-bc34-234db29b35a3.png)
 
+
 **Link to Deployed App on Heroku:**
 
 https://infinite-shore-57638.herokuapp.com/
