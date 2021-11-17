@@ -27,6 +27,12 @@ THEN that not eappears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note's text in the right-hand column
 ```
+**Application Photos:**
+
+![NoteTaker1](https://user-images.githubusercontent.com/85413293/142131903-21774cb5-01bf-42a7-80a5-42eab1ab388c.png)
+
+![NoteTaker2png](https://user-images.githubusercontent.com/85413293/142131968-869f7476-9eba-489f-bc34-234db29b35a3.png)
+
 **Link to Deployed App on Heroku:**
 
 https://infinite-shore-57638.herokuapp.com/
