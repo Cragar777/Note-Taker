@@ -1,4 +1,4 @@
-# UOTSCS-Assignment11-Note-Taker
+# Note-Taker
 
 **Description:**
 
